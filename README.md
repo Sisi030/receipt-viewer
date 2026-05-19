@@ -36,7 +36,7 @@ python3 -m http.server 8000
 
 ## Why?
 
-Built for the [German-OCR pipeline](https://hermes agent.nousresearch.com) — processing hundreds of receipt scans needed a fast, focused viewer. Works for any document image.
+Built for the [German-OCR pipeline](https://hermes-agent.nousresearch.com) — processing hundreds of receipt scans needed a fast, focused viewer. Works for any document image.
 
 ## Tech
 
