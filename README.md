@@ -2,8 +2,6 @@
 
 A **zero-dependency, single-file** HTML image viewer optimized for receipt/document scans. Drop an image and instantly zoom, pan, and inspect details.
 
-![screenshot](screenshot.png)
-
 ## Features
 
 - **One file** — no build tools, no servers, no npm. Open `index.html` in your browser.
