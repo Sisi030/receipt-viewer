@@ -11,9 +11,9 @@ A **zero-dependency, single-file** HTML image viewer optimized for receipt/docum
 - **Smooth zoom** — mouse scroll wheel, `+`/`−` buttons, or <kbd>Ctrl+</kbd>/<kbd>Ctrl−</kbd>.
 - **Smart zoom** — zooms toward the cursor position, not the center.
 - **Pan** — click and drag the image when zoomed in.
-- **Fit to screen** — one click or <kbd>Ctrl+0</kbd>Ctrl+0<kbd>.</kbd>
+- **Fit to screen** — one click or <kbd>Ctrl+0</kbd>.
+- **Zero dependencies** — single HTML file, open in any browser.
 - **Clean dark UI** — easy on the eyes for long review sessions.
--format documents.
 - **Keyboard shortcuts** — <kbd>Ctrl+</kbd> zoom in, <kbd>Ctrl−</kbd> zoom out, <kbd>Ctrl+0</kbd> fit.
 
 ## Browser Support
